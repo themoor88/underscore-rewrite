@@ -1,0 +1,1 @@
+// First the each then map then reduce function.
